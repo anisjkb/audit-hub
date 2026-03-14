@@ -304,7 +304,6 @@ async def has_child_records(db, obj) -> tuple[bool, str | None]:
 ---
 Here is the continuation of the document converted into Markdown format:
 
-````markdown
 ---
 
 ## 8. Core File: `core/soft_delete.py`
