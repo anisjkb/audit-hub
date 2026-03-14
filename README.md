@@ -1314,8 +1314,6 @@ deleted_at: Mapped[datetime | None] = mapped_column(T
 
 IMESTAMP, nullable=True)
 
-````
-
 ---
 
 ## 32. Audit Logging
