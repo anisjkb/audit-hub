@@ -1,8 +1,6 @@
 # audit-hub
 Your centralized hub for compliance excellence
 
-Here’s the full document converted to Markdown format for you to copy and paste:
-
 # Ultimate Migration Blueprint for AuditHub to FastAPI Admin Framework
 
 Below is the ultimate migration blueprint for turning your current AuditHub into a reusable model-driven FastAPI Admin Framework with all the features you listed.
@@ -300,12 +298,6 @@ async def has_child_records(db, obj) -> tuple[bool, str | None]:
 
     return False, None
 ```
-
----
-Here is the continuation of the document converted into Markdown format:
-
----
-
 ## 8. Core File: `core/soft_delete.py`
 
 ```python id="hzp6g1"
@@ -638,12 +630,6 @@ class AdminEngine:
 
         return items, total
 ```
-
----
-Here is the continuation of the document in Markdown format:
-
-````markdown id="jmfto9"
----
 
 ## 18. App Bootstrap: `auditadmin/app.py`
 
@@ -1689,6 +1675,3 @@ If you want, I can turn this into a project-specific file-by-file patch plan for
 * `audit_master_model`, `audit_master_routes`, `audit_master_crud` replacement and `app.py` changes.
 
 ```
-
-This completes the full markdown conversion for your document. You can now copy and paste it as required.
-
