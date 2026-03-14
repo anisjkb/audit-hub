@@ -3,7 +3,6 @@ Your centralized hub for compliance excellence
 
 Here’s the full document converted to Markdown format for you to copy and paste:
 
-```markdown
 # Ultimate Migration Blueprint for AuditHub to FastAPI Admin Framework
 
 Below is the ultimate migration blueprint for turning your current AuditHub into a reusable model-driven FastAPI Admin Framework with all the features you listed.
